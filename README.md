@@ -22,10 +22,6 @@ Ce projet consiste en une application lourde interagissant avec une API REST pou
 
 Les données utilisées proviennent de l'API REST Shodan qui fournit des informations de géolocalisation sur les adresses IP.
 
-## Captures d'écran des Visualisations/Résultats
-
-VIDE
-
 ## Technologies Utilisées
 
 - Python
